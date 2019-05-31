@@ -1,18 +1,17 @@
-# courses
+# The My Courses Web Application
 
-> A Vue.js project
+### Purpose 
+To provide users the ability to organize their current courses with a todo list. 
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+### Features  
+- **Vue.js** - Front-end interface utilizing single page components. 
+- **JavaScript** - Functions.
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
+### Implementation
+The user can organize each course with a todo list to provide clarity and convienence. The user can add, delete, or archive an item from the todo list of each section.  
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Screen Shots 
+  ![TheMovieDBApp!](https://github.com/RYin4/MyCourses/blob/master/src/assets/ScreenShot.png)
+    
