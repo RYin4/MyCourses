@@ -1,7 +1,8 @@
 # The My Courses Web Application
 
 ### Purpose 
-To provide users the ability to organize their current courses with a todo list. 
+The purpose of this application is to provide users the ability to organize their current courses with a todo list. The user can create, edit, and remove items from a given list.  
+
 
 
 ### Features  
